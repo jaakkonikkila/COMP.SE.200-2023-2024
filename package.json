@@ -11,6 +11,8 @@
   "author": "Jaakko Nikkilä, Paavo Jyrkiäinen",
   "license": "MIT",
   "devDependencies": {
+    "@babel/preset-env": "^7.23.5",
+    "babel-jest": "^29.7.0",
     "coveralls": "^3.1.1",
     "jest": "^29.7.0"
   }
